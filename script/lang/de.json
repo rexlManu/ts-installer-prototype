@@ -1,0 +1,19 @@
+{
+    "language": "Deutsch",
+    "language.selected": "Du hast das Script auf Deutsch gestellt.",
+    "slogan": "TS-Installer.de - TeamSpeak Einrichtung einfach gelöst",
+    "choose.option": "Bitte wähle eine Option aus:",
+    "invalid.option": "Diese Auswahl ist ungültig.",
+    "option.installation": "Installation",
+    "option.update": "Update",
+    "option.remove": "Entfernen",
+    "option.quit": "Script schließen",
+    "exit": "Danke für das Nutzen des Skripts.",
+    "installation.folder": "In welchen Ordner soll die Installation stattfinden? Default: [/opt/teamspeak-server/]",
+    "installation.folder.created": "Der Ordner wurde erstellt.",
+    "installation.download": "Server Daten werden von TeamSpeak heruntergeladen.",
+    "installation.user.create": "TeamSpeak Benutzer wurde angelegt.",
+    "installation.setup": "Der Server wird eingerichtet.",
+    "installation.started": "Der Server wurde gestartet.",
+    "installation.libs": "Es werden zusatz Pakete installiert."
+}
